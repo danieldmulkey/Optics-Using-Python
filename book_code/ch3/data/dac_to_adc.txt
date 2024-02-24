@@ -1,0 +1,2 @@
+DAC output (V) 2
+ADC input (V) 1.999341
